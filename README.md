@@ -1,0 +1,2 @@
+# SimpleCrm
+CRM SIMPLES!
